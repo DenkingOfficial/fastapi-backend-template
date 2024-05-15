@@ -4,4 +4,4 @@ This template provides a minimal FastAPI backend setup.
 
 **!!! IMPORTANT !!!**
 
-Intended for use within [ADD LINK HERE]() repository
+Intended for use within [this](https://github.com/DenkingOfficial/fastapi-vite-react-tw-nginx) repository
